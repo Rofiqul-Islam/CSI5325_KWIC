@@ -2,7 +2,7 @@
 
 Compile the project using "mvn clean install".
 
-Run the jar by "java -jar < jar name > $ < input file name >" . 
+Run the jar by "java -jar < jar name >  < input file name >" . 
 
 example: java -jar Kwic-1.0-SNAPSHOT.jar test.txt .
 
