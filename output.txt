@@ -1,8 +1,8 @@
 
-abc def
-def abc
-sadfa
-sadfsa sadfsad
-sadfsad sadfsa
-sdagtty
-sdfsad
+apple orange
+grape mango
+lemon
+mango grape
+orange apple
+pineapple strawberry
+strawberry pineapple

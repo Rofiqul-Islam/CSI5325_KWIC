@@ -1,6 +1,5 @@
-abc def
-sadfsa sadfsad
-sdfsad
-sadfa
+apple orange
+lemon
+mango grape
 
-sdagtty
+pineapple strawberry

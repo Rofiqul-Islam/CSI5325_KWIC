@@ -9,7 +9,7 @@ import java.io.IOException;
  * @author Maruf
  */
 
-public class MaaterControl {
+public class MasterControl {
 
     public static Input input;
     public static Lines lines;

@@ -23,7 +23,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.csi5325.kwick.MaaterControl</mainClass>
+                            <mainClass>com.csi5325.kwick.MasterControl</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
