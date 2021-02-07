@@ -1,9 +1,18 @@
 # CSI5325_KWIC
 
-Compile the project using "mvn clean install".
+Compile the project using
 
-Run the jar by "java -jar < jar name >  < input file name >" . 
+```bash
+$ mvn clean install
+```
 
-example: java -jar Kwic-1.0-SNAPSHOT.jar test.txt .
+Run the jar by `java -jar <jar_name>  <input_file_name>`. 
+
+example:
+
+```bash
+$ java -jar target/Kwic-1.0-SNAPSHOT.jar input.txt .
+$ cat output.txt
+```
 
 Output will be generate in "output.txt" file.
